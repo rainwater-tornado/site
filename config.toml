@@ -1,0 +1,20 @@
+baseURL = "https://rainwatertornado.cloud/"
+defaultContentLanguage = "en-US"
+languageCode = "en-us"
+title = "Rainwater Tornado"
+theme = "m10c"
+
+[params]
+author = "Jack \"Fox\" Grayson"
+description = "Preserving archives and collections of pony music"
+
+[params.style]
+darkestColor = "#444444" #Sidebar
+darkColor = "#004444" #Main content area
+lightColor = "#ffffff" #Primary text
+lightestColor = "#ffffff" #Titles
+primaryColor = "#00ffff" #Secondary text
+
+[permalinks]
+news = "/:section/:year/:month/:slug"
+updates = "/:section/:year/:month/:slug"

@@ -1,0 +1,8 @@
+{{- if .PublishDate -}}
+{{- $dateFormat := "2 Jan 2006" -}}
+{{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+{{ .PublishDate.Format $dateFormat }}
+{{ if ne .PublishDate .Lastmod }}
+(updated {{ .Lastmod.Format $dateFormat }})
+{{ end }}
+{{- end -}}
