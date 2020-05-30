@@ -3,13 +3,17 @@ title = "Balloon Party"
 date = "2020-05-29T07:20:38Z"
 +++
 
-Torrents for Balloon Party albums from 2012 to 2013. These are taken from an [archived page from the Balloon Party website](https://web.archive.org/web/20150715041554/http://www.balloon-party.com/editions.php) from July 2015.
+Torrents for Balloon Party albums from 2012 to 2013.
 
 * [Balloon Party - 100% No Feeble Cheering]({{< resurl "2012-100NFC.torrent" >}}) ([magnet]({{< magnet "249f9fad6398c98b3c99ffeffc2fef4930cd60a2" >}}))
 * [Balloon Party - After Party]({{< resurl "2012-AP.torrent" >}}) ([magnet]({{< magnet "d11acac71951d776f93ad66533802a1a4ad1b4a1" >}}))
 * [Balloon Party - Apple 2012]({{< resurl "2012-A2012.torrent" >}}) ([magnet]({{< magnet "af989495cf816a7416633eb50acae54341ed5ac1" >}}))
 * [Rainbow & Rooted - Four's Fall Down]({{< resurl "2013-FFD.torrent" >}}) ([magnet]({{< magnet "8f0a559ef413589152079a8234696518263c5ee0" >}}))
 * [Rainbow & Rooted - One Last Shot]({{< resurl "2013-OLS.torrent" >}}) ([magnet]({{< magnet "3d2263fed972fff312c7b3a7ddcac955deeb0e1b" >}}))
+
+## Source
+
+The torrents are from an [archived page from the Balloon Party website](https://web.archive.org/web/20150715041554/http://www.balloon-party.com/editions.php) from July 2015.
 
 ## Other Downloads
 
