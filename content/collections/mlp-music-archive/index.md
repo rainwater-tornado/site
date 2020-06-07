@@ -5,6 +5,8 @@ date = "2020-06-07T06:54:42Z"
 
 Torrents from the MLP Music Archive.
 
+**Note**: This project has been inactive since 2015; the [Pony Music Archive]({{< relref "../pony-music-archive/index.md" >}}) that intends to be a spiritual successor to the MLP Music Archive.
+
 * [Version 16]({{< resurl "MLPMA Full v.16.torrent" >}}) ([magnet]({{< magnet "7674f038eeb8a5d710256a55df82ce2f3ba9bd3d" >}}))
 * [Version 15]({{< resurl "MLPMusicArchive Full v15.torrent" >}}) ([magnet]({{< magnet "73700a27b20da119be1cb86bfe44959117fc275d" >}}))
 * [Version 14]({{< resurl "MLPMusicArchive Full v14.torrent" >}}) ([magnet]({{< magnet "736056eb1dc14a9bd36678e91284af218ab70e80" >}}))
