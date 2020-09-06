@@ -13,9 +13,11 @@ BitTorrent works by downloading data from multiple other computers on the Intern
 
 To download a file from BitTorrent, you need a program called a BitTorrent client. There are many available; one popular option is [qBittorrent](https://www.qbittorrent.org/).
 
-## Donate
+## Who's Running This
 
-Running this server isn't cheap, and the cost grows when more and more torrents are seeded. Please consider [buying "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox). If you include Rainwater Tornado in your note I will reserve the proceeds specifically for the costs associated with this server.
+This site is operated by [Jack "Fox" Grayson](http://jackgraysonfox.tk/), a musician and music lover in the brony fandom.
+
+By the way, running this server isn't cheap, and the cost grows when more and more torrents are seeded. So please consider [buying some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox). (If you include Rainwater Tornado in your note I will reserve the proceeds specifically for the costs associated with this server.)
 
 ## Thanks
 
