@@ -20,3 +20,9 @@ Running this server isn't cheap, and the cost grows when more and more torrents 
 ## Thanks
 
 Rainwater Tornado wouldn't be possible without the work of [many great people]({{< relref "/about/thanks.md" >}}).
+
+## Legal Information
+
+The information on this site is dedicated to the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
+This information is different from the collections of music themselves, which have their own copyright and other related rights. It is your responsibility to ensure that your use of these collections is allowed under applicable laws.
