@@ -7,6 +7,12 @@ Torrents from the [Pony Music Archive](https://ponemusic.net/).
 
 **Note**: Because of space limitations, Rainwater Tornado is currently seeding only a few of these torrents.
 
+## Version 20.09
+
+* [Raw Quality]({{< resurl "Pony Music Archive 20.09 (Raw Quality).torrent" >}}) ([magnet]({{< magnet "226121cdac1a522ecbb73ea728a0dcdb1736aabb" >}}))
+* [High Quality]({{< resurl "Pony Music Archive 20.09 (High Quality).torrent" >}}) ([magnet]({{< magnet "c179f185ee0690c5a6d7d1f0bb1e0fa58dfeec8e" >}}))
+* [Phone Quality]({{< resurl "Pony Music Archive 20.09 (Phone Quality).torrent" >}}) ([magnet]({{< magnet "4421187068d3a97e13b918cf977b7487f9dcc6fc" >}}))
+
 ## Version 20.03
 
 * [Raw Quality]({{< resurl "Pony Music Archive 20.03 (Raw Quality).torrent" >}}) ([magnet]({{< magnet "6b6cb3e82ac8c30a4c6bcdc4b14af212222ee238" >}}))
