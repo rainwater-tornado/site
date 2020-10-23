@@ -1,6 +1,7 @@
 +++
 title = "Pony Music Archive"
 date = "2020-06-07T07:24:52Z"
+lastmod = "2020-10-16T04:10:23Z"
 +++
 
 Torrents from the [Pony Music Archive](https://ponemusic.net/).
