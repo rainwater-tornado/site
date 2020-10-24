@@ -18,6 +18,6 @@ Torrents from the MLP Music Archive.
 
 Version 16 is from the [Brony Music Archive's Tumblr post](https://bronymusicarchive.tumblr.com/post/111424776817/brony-music-archive-deleted-music-collection). (It's unclear if this is actually related to the previous versions, but it's included here for convenience.)
 
-Versions 15 and 14 are from [Ponyville Live!](https://ponyvillelive.com/mlpma/).
+Versions 15 and 14 are from [Ponyville Live!](https://ponyvillelive.com/mlpma/)
 
-Version 13 is from an [archive of mlpmusicarchive.com](https://web.archive.org/web/20130330071328/http://mlpmusicarchive.com/the-archive). (Version 14 is also available from there.)
+Version 13 is from an [archive of mlpmusicarchive.com](https://web.archive.org/web/20121208221301/http://mlpmusicarchive.com/archive-updates/update-v013-the-5k-update). (Version 14 is also available from a [different archived page](https://web.archive.org/web/20130330071328/http://mlpmusicarchive.com/the-archive).)
