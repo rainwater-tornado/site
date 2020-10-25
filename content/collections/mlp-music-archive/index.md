@@ -1,6 +1,7 @@
 +++
 title = "MLP Music Archive"
 date = "2020-06-07T06:54:42Z"
+lastmod = "2020-10-25T07:07:25Z"
 +++
 
 Torrents from the MLP Music Archive.
@@ -12,7 +13,7 @@ Torrents from the MLP Music Archive.
 * [Version 14]({{< resurl "MLPMusicArchive Full v14.torrent" >}}) ([magnet]({{< magnet "736056eb1dc14a9bd36678e91284af218ab70e80" >}}))
 * [Version 13]({{< resurl "MLPMusicArchive Full v13.torrent" >}}) ([magnet]({{< magnet "9873b29df0a45a61a120bd238619676de0050363" >}}))
 
-**Note**: Because of space limitations, Rainwater Tornado is not currently seeding Version 13.
+**Note**: Rainwater Tornado is not seeding Version 13 because no other seeds or file downloads are available to obtain the data. If you have this torrent, please consider seeding it.
 
 ## Sources
 
