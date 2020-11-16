@@ -3,7 +3,7 @@ title = "Berrytube's Best"
 date = "2020-05-30T08:00:42Z"
 +++
 
-Music compilations by Jerick from BerryTube.
+Music compilations from 2012 to 2014 by Jerick from BerryTube.
 
 * [Black and White]({{< resurl "BlackandWhite.torrent" >}}) ([magnet]({{< magnet "6f457bcf3a732f1370b046c7f1531e82d44628ff" >}}))
 * [The Movements of the Phoenix]({{< resurl "TheMovementofthePhoenix.torrent" >}}) ([magnet]({{< magnet "6f457bcf3a732f1370b046c7f1531e82d44628ff" >}}))

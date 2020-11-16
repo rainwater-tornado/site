@@ -3,7 +3,7 @@ title = "Progressive Element"
 date = "2020-05-30T03:50:15Z"
 +++
 
-Progressive Element's music archive.
+Progressive Element's music archive from 2015 to 2018.
 
 {{< original-torrent >}}
 
@@ -11,4 +11,4 @@ Progressive Element's music archive.
 
 ## Source
 
-The archive is available from [Dropbox](https://www.dropbox.com/s/43vwdwurr0uw9o3/Progressive%20Element's%20Archived%20Songs%202015%20-%202018.zip?dl=0) and was posted as part of an [announcement of a new alias](https://www.youtube.com/watch?v=E1IJJvTteRE) ([archive](https://archive.is/6hAKp)).
+The archive is available from [Dropbox](https://www.dropbox.com/s/43vwdwurr0uw9o3/Progressive%20Element's%20Archived%20Songs%202015%20-%202018.zip?dl=0) and was posted as part of an [announcement of a new alias](https://www.youtube.com/watch?v=E1IJJvTteRE) ([archive](https://archive.is/6hAKp)) in August 2019.

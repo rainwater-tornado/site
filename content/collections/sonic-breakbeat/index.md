@@ -3,7 +3,7 @@ title = "Sonic Breakbeat"
 date = "2020-05-24T08:15:48Z"
 +++
 
-Sonic Breakbeat's music archive.
+Sonic Breakbeat's music archive from January 2016.
 
 {{< original-torrent >}}
 
