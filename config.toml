@@ -1,5 +1,5 @@
 baseURL = "https://rainwatertornado.cloud/"
-defaultContentLanguage = "en-US"
+defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Rainwater Tornado"
 theme = "m10c"
