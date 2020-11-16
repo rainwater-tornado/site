@@ -6,16 +6,16 @@
         <div>
           {{ partial "date-with-update.html" . }}
         </div>
-        {{- with .Params.tags -}}
+        {{- with .Params.tags }}
         <div>
           {{ partial "icon.html" (dict "ctx" $ "name" "tag") }}
-          {{ range . -}}
-            {{- with $.Site.GetPage (printf "/%s/%s" "tags" . ) -}}
+          {{- range . -}}
+            {{ with $.Site.GetPage (printf "/%s/%s" "tags" . ) }}
               <a class="tag" href="{{ .Permalink }}">{{ .Title }}</a>
-            {{- end -}}
-          {{- end -}}
+            {{- end }}
+          {{- end }}
         </div>
-        {{- end -}}
+        {{- end }}
       </div>
     </header>
     <div class="post-content">
