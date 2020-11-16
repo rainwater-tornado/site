@@ -25,7 +25,7 @@ Music compilations by Jerick from BerryTube.
 
 ## Source
 
-The compilations are from [BerryTube's website](bttps://btc.berrytube.tv/jerick/).
+The compilations are from [BerryTube's website](https://btc.berrytube.tv/jerick/).
 
 Direct downloads are also available as ZIP files, which have identical contents to the torrents, with some minor exceptions:
 
