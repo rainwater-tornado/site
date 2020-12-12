@@ -1,5 +1,6 @@
 +++
 title = "Progressive Element"
+tags = ["artist"]
 date = "2020-05-30T03:50:15Z"
 +++
 

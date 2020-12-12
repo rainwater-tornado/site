@@ -1,5 +1,6 @@
 +++
 title = "Viricide Filly"
+tags = ["artist"]
 date = "2020-11-16T04:07:22Z"
 +++
 

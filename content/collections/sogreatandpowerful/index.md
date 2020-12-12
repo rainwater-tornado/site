@@ -1,5 +1,6 @@
 +++
 title = "SoGreatandPowerful"
+tags = ["artist"]
 date = "2020-05-24T05:44:36Z"
 +++
 

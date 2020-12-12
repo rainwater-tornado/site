@@ -20,3 +20,4 @@ news = "/:section/:year/:month/:slug"
 updates = "/:section/:year/:month/:slug"
 
 [taxonomies]
+tag = "tags"

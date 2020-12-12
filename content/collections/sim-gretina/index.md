@@ -1,5 +1,6 @@
 +++
 title = "Sim Gretina"
+tags = ["artist"]
 date = "2020-05-29T08:23:46Z"
 +++
 

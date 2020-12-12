@@ -1,5 +1,6 @@
 +++
 title = "Sonic Breakbeat"
+tags = ["artist"]
 date = "2020-05-24T08:15:48Z"
 +++
 

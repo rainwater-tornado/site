@@ -1,5 +1,6 @@
 +++
 title = "Pony Music Archive"
+tags = ["community", "help-wanted"]
 date = "2020-06-07T07:24:52Z"
 lastmod = "2020-10-16T04:10:23Z"
 +++

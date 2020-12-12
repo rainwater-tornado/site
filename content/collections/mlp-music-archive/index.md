@@ -1,5 +1,6 @@
 +++
 title = "MLP Music Archive"
+tags = ["community", "help-wanted"]
 date = "2020-06-07T06:54:42Z"
 lastmod = "2020-10-25T07:07:25Z"
 +++
