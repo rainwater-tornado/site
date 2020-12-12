@@ -17,11 +17,13 @@ To download a file from BitTorrent, you need a program called a BitTorrent clien
 
 This site is operated by [Jack "Fox" Grayson](http://jackgraysonfox.tk/), a musician and music lover in the brony fandom.
 
-By the way, running this server isn't cheap, and the cost grows when more and more torrents are seeded. So please consider [buying some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox). (If you include Rainwater Tornado in your note I will reserve the proceeds specifically for the costs associated with this server.)
+## How to Help
+
+New collections, donations, and technical advice. Get the details on [how to help]({{< relref "how-to-help" >}}) make this archive better.
 
 ## Thanks
 
-Rainwater Tornado wouldn't be possible without the work of [many great people]({{< relref "/about/thanks.md" >}}).
+Rainwater Tornado wouldn't be possible without the work of [many great people]({{< relref "thanks" >}}).
 
 ## Legal Information
 
