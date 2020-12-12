@@ -6,7 +6,7 @@
     <li class="posts-list-item">
       <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>
       <span class="posts-list-item-description">
-        {{ partial "date-with-update.html" . }}
+        {{ partial "post-meta.html" . }}
       </span>
     </li>
   {{- end -}}
