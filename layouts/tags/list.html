@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    <ul class="posts-list">
+      {{ $paginator := .Paginate .Pages.ByTitle }}
+      {{ range $paginator.Pages }}
+        <li class="posts-list-item">
+          <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>
+          <span class="posts-list-item-description">
+            {{ partial "date-with-update.html" . }}
+          </span>
+        </li>
+      {{ end }}
+    </ul>
+    {{ partial "pagination.html" $ }}
+  </article>
+{{ end }}
