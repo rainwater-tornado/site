@@ -1,6 +1,9 @@
 {{ define "main" }}
   <article>
     <h1>{{ .Title }}</h1>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
     <ul class="posts-list">
       {{ $paginator := .Paginate .Pages.ByTitle }}
       {{ range $paginator.Pages }}
