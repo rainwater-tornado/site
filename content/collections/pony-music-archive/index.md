@@ -7,7 +7,7 @@ lastmod = "2020-10-16T04:10:23Z"
 
 Torrents from the [Pony Music Archive](https://ponemusic.net/).
 
-**Note**: Because of space limitations, Rainwater Tornado is currently seeding only a few of these torrents.
+**Help Wanted**: Rainwater Tornado is currently seeding only a few of these torrents because of space limitations. Please consider seeding as many as you can.
 
 ## Version 20.09
 
