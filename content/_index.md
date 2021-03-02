@@ -14,8 +14,8 @@ Or, [learn more]({{< relref "/about" >}}) about this project, including [how to 
 
 {{< latest-news >}}
 
-([All news]({{< relref "/news/_index.md" >}}))
+([All news]({{< relref "/news" >}}))
 
 ## Site Updates
 
-Stay up to date with new torrents in the [updates section]({{< relref "/updates/_index.md" >}}).
+Stay up to date with new torrents in the [updates section]({{< relref "/updates" >}}).
