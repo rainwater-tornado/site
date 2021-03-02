@@ -1,6 +1,5 @@
 +++
 title = "Rainwater Tornado"
-type = "about"
 layout = "single"
 +++
 
