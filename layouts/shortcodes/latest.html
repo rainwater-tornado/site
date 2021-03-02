@@ -1,7 +1,6 @@
 <ul class="posts-list">
-  {{- $news := where .Site.RegularPages.ByDate.Reverse "Section" "news" -}}
-  {{- $latest_count := 5 -}}
-  {{- $latest := first $latest_count $news -}}
+  {{- $news := where .Site.RegularPages.ByDate.Reverse "Section" (.Get 0) -}}
+  {{- $latest := first (.Get 1) $news -}}
   {{- range $latest -}}
     <li class="posts-list-item">
       <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>

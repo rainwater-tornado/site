@@ -11,7 +11,7 @@ Or, [learn more]({{< relref "/about" >}}) about this project, including [how to 
 
 ## News
 
-{{< latest-news >}}
+{{< latest "news" 3 >}}
 
 ([All news]({{< relref "/news" >}}))
 
