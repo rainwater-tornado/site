@@ -17,4 +17,6 @@ Or, [learn more]({{< relref "/about" >}}) about this project, including [how to 
 
 ## Site Updates
 
-Stay up to date with new torrents in the [updates section]({{< relref "/updates" >}}).
+{{< latest "updates" 3 >}}
+
+([All updates]({{< relref "/updates" >}}))
