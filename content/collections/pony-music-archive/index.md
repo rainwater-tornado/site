@@ -2,12 +2,18 @@
 title = "Pony Music Archive"
 tags = ["community", "help-wanted"]
 date = "2020-06-07T07:24:52Z"
-lastmod = "2020-10-16T04:10:23Z"
+lastmod = "2021-03-02T15:12:31Z"
 +++
 
 Torrents from the [Pony Music Archive](https://ponemusic.net/).
 
 **Help Wanted**: Rainwater Tornado is currently seeding only a few of these torrents because of space limitations. Please consider seeding as many as you can.
+
+## Version 21.03
+
+* [Raw Quality]({{< resurl "Pony Music Archive 21.03 (Raw Quality).torrent" >}}) ([magnet]({{< magnet "a28d9ff9d8e1edc220b4511c182345d71739b8c7" >}}))
+* [High Quality]({{< resurl "Pony Music Archive 21.03 (High Quality).torrent" >}}) ([magnet]({{< magnet "4411586c676e05c8453c2e8dede4c26f64b93d35" >}}))
+* [Phone Quality]({{< resurl "Pony Music Archive 21.03 (Phone Quality).torrent" >}}) ([magnet]({{< magnet "78915a2c06452884ef905f94704b313bf7d47b11" >}}))
 
 ## Version 20.09
 
