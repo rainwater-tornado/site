@@ -1,5 +1,6 @@
 +++
 title = "Site Is Up!"
+slug = "site-is-up"
 date = "2020-05-24T08:36:31Z"
 +++
 
