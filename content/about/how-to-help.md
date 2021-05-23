@@ -28,4 +28,4 @@ Running this isn't cheap, and the cost grows when more collections are added. If
 
 * You can seed these torrents on your own computer for added resilience. The [updates section]({{< relref "/updates" >}}) lists any new torrents.
 * The server infrastructure is described [on GitHub](https://github.com/rainwater-tornado/technical). If you have any ideas for how to improve the server infrastructure, open an issue there or e-mail <jackgraysonfox@gmail.com>.
-* The website is also [on GitHub](https://github.com/rainwater-tornado/siite). If you have any ideas for how to improve the website, open an issue or pull request there.
+* The website is also [on GitHub](https://github.com/rainwater-tornado/site). If you have any ideas for how to improve the website, open an issue or pull request there.
