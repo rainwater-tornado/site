@@ -2,7 +2,7 @@
 title = "Pony Music Archive"
 tags = ["community", "help-wanted"]
 date = "2020-06-07T07:24:52Z"
-lastmod = "2021-03-02T15:12:31Z"
+lastmod = "2021-05-20T09:47:15Z"
 +++
 
 Torrents from the [Pony Music Archive](https://ponemusic.net/).
