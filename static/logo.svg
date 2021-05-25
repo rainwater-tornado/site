@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="256" height="256">
+	<defs>
+		<style type="text/css"><![CDATA[
+		.background {
+			fill: #006666;
+		}
+		.tornado-body, .ground {
+			fill: #004444;
+		}
+		.tornado-top {
+			fill: #44cccc;
+			stroke: #004444;
+			stroke-width: 8;
+		}
+		.tornado-accent {
+			fill: none;
+			stroke: #44cccc;
+			stroke-width: 8;
+		}
+		]]></style>
+		<clipPath id="tornado-mask">
+			<path d="M 28,64 L 228,64 L 160,224 L 96,224 Z"/>
+		</clipPath>
+	</defs>
+	<rect x="0" y="0" width="256" height="256" class="background"/>
+	<path d="M 28,64 L 228,64 L 160,224 L 96,224 Z" class="tornado-body"/>
+	<ellipse cx="128" cy="64" rx="96" ry="32" class="tornado-top"/>
+	<g clip-path="url(#tornado-mask)">
+		<path d="M 32,112 l 192,0" class="tornado-accent"/>
+		<path d="M 32,128 l 192,0" class="tornado-accent"/>
+		<path d="M 32,144 l 192,0" class="tornado-accent"/>
+		<path d="M 32,160 l 192,0" class="tornado-accent"/>
+		<path d="M 32,176 l 192,0" class="tornado-accent"/>
+		<path d="M 32,192 l 192,0" class="tornado-accent"/>
+		<path d="M 32,208 l 192,0" class="tornado-accent"/>
+	</g>
+	<rect x="0" y="224" width="256" height="32" class="ground"/>
+</svg>
