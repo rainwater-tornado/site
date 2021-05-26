@@ -9,9 +9,10 @@
 			fill: #004444;
 		}
 		.tornado-top {
+			fill: #004444;
+		}
+		.tornado-top-accent {
 			fill: #44cccc;
-			stroke: #004444;
-			stroke-width: 8;
 		}
 		.tornado-accent {
 			fill: none;
@@ -20,20 +21,19 @@
 		}
 		]]></style>
 		<clipPath id="tornado-mask">
-			<path d="M 28,64 L 228,64 L 160,224 L 96,224 Z"/>
+			<path d="M 64,64 A 64,32 0 0,1 192,64 Q 160,128 160,224 L 96,224 Q 96,128 64,64"/>
 		</clipPath>
 	</defs>
 	<rect x="0" y="0" width="256" height="256" class="background"/>
-	<path d="M 28,64 L 228,64 L 160,224 L 96,224 Z" class="tornado-body"/>
-	<ellipse cx="128" cy="64" rx="96" ry="32" class="tornado-top"/>
+	<path d="M 64,64 A 64,32 0 0,1 192,64 Q 160,128 160,224 L 96,224 Q 96,128 64,64" class="tornado-body"/>
 	<g clip-path="url(#tornado-mask)">
-		<path d="M 32,112 l 192,0" class="tornado-accent"/>
-		<path d="M 32,128 l 192,0" class="tornado-accent"/>
-		<path d="M 32,144 l 192,0" class="tornado-accent"/>
-		<path d="M 32,160 l 192,0" class="tornado-accent"/>
-		<path d="M 32,176 l 192,0" class="tornado-accent"/>
-		<path d="M 32,192 l 192,0" class="tornado-accent"/>
-		<path d="M 32,208 l 192,0" class="tornado-accent"/>
+		<path d="M 64,96 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,120 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,144 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,168 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,192 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,216 a 64,32 0 0,1 128,0" class="tornado-accent"/>
+		<path d="M 64,240 a 64,32 0 0,1 128,0" class="tornado-accent"/>
 	</g>
 	<rect x="0" y="224" width="256" height="32" class="ground"/>
 </svg>
