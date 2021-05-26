@@ -8,12 +8,6 @@
 		.tornado-body, .ground {
 			fill: #004444;
 		}
-		.tornado-top {
-			fill: #004444;
-		}
-		.tornado-top-accent {
-			fill: #44cccc;
-		}
 		.tornado-accent {
 			fill: none;
 			stroke: #44cccc;
