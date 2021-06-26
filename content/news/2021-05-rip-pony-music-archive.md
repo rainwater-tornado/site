@@ -5,7 +5,6 @@ date = "2021-05-20T09:34:46Z"
 lastmod = "2021-06-02T19:45:49Z"
 +++
 
-
 After being in "unscheduled maintenance" for the previous several weeks, the [Pony Music Archive](https://ponemusic.net/) officially announced its end earlier this month.
 
 Rainwater Tornado has saved all of the [torrents]({{< relref "/collections/pony-music-archive/index.md" >}}) for the Pony Music Archive. However, because of space limitations, it is only seeding the High Quality and Phone Quality torrents of the latest version.
