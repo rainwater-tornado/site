@@ -4,6 +4,14 @@ languageCode = "en-us"
 title = "Rainwater Tornado"
 theme = "m10c"
 
+[[menu.main]]
+name = "About"
+url = "/about/"
+
+[[menu.main]]
+name = "Submit Collections/Help Out"
+url = "/about/how-to-help/"
+
 [params]
 author = "Rainwater Tornado"
 description = "Preserving archives and collections of pony music"
