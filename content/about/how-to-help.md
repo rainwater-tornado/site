@@ -14,7 +14,7 @@ Of particular interest are any collections that are less well-known or at risk o
 
 Existing torrents are good, but they can be direct downloads as well.
 
-To suggest a new collection, please e-mail <jackgraysonfox@gmail.com>. Be sure to include a link to a torrent or download source.
+To suggest a new collection, please e-mail <contact@rainwatertornado.cloud>. Be sure to include a link to a torrent or download source.
 
 ## Help Wanted on Existing Collections
 
@@ -27,5 +27,5 @@ Running this isn't cheap, and the cost grows when more collections are added. If
 ## Technical Assistance
 
 * You can seed these torrents on your own computer for added resilience. The [updates section]({{< relref "/updates" >}}) lists any new torrents.
-* The server infrastructure is described [on GitHub](https://github.com/rainwater-tornado/technical). If you have any ideas for how to improve the server infrastructure, open an issue there or e-mail <jackgraysonfox@gmail.com>.
+* The server infrastructure is described [on GitHub](https://github.com/rainwater-tornado/technical). If you have any ideas for how to improve the server infrastructure, open an issue there or e-mail <contact@rainwatertornado.cloud>.
 * The website is also [on GitHub](https://github.com/rainwater-tornado/site). If you have any ideas for how to improve the website, open an issue or pull request there.
