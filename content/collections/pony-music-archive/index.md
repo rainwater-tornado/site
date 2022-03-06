@@ -5,7 +5,7 @@ date = "2020-06-07T07:24:52Z"
 lastmod = "2021-06-02T19:44:01Z"
 +++
 
-Torrents from the [Pony Music Archive](https://ponemusic.net/).
+Torrents from the [Pony Music Archive](https://web.archive.org/web/*/https://ponemusic.net/), which was active from 2019 to 2021.
 
 **Help Wanted**: Because of space limitations, Rainwater Tornado currently has only the latest version, 21.03. Please consider seeding as many of these torrents as you can.
 
