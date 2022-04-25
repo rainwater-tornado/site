@@ -7,11 +7,11 @@ lastmod = "2021-06-02T19:44:01Z"
 
 Torrents from the [Pony Music Archive](https://web.archive.org/web/*/https://ponemusic.net/), which was active from 2019 to 2021.
 
-**Help Wanted**: Because of space limitations, Rainwater Tornado currently has only the latest version, 21.03. Please consider seeding as many of these torrents as you can.
+Rainwater Tornado is currently seeding the Raw Quality torrents for all versions as well as the High Quality and Phone Quality torrents for Version 21.03.
+
+**Help Wanted**: Because of space limitations, Rainwater Tornado is not seeding all of the torrents currently. Please consider seeding as many of these torrents as you can, in particular the High Quality and Phone Quality torrents of versions before 21.03.
 
 ## Version 21.03
-
-Rainwater Tornado is seeding all of the Version 21.03 torrents.
 
 * [Raw Quality]({{< resurl "Pony Music Archive 21.03 (Raw Quality).torrent" >}}) ([magnet]({{< magnet "a28d9ff9d8e1edc220b4511c182345d71739b8c7" >}}))
 * [High Quality]({{< resurl "Pony Music Archive 21.03 (High Quality).torrent" >}}) ([magnet]({{< magnet "4411586c676e05c8453c2e8dede4c26f64b93d35" >}}))
