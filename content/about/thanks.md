@@ -16,7 +16,7 @@ Many other people dedicated to preserving pony music, such as:
 
 * The MLP Music Archive
 * davidfg4, owner of [sogreatandpowerful.com](http://sogreatandpowerful.com/)
-* htnyquist, owner of [The Pony Music Archive](https://ponemusic.net/)
+* htnyquist, owner of the Pony Music Archive
 * ZizzyDizzyMC, owner of [The Pony Archive](http://theponyarchive.com/)
 
 And finally, all the musicians and fans who make this possible.
