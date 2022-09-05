@@ -5,12 +5,19 @@ title = "Rainwater Tornado"
 theme = "m10c"
 
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "Browse"
+url = "/collections/"
+weight = 1
 
 [[menu.main]]
-name = "Submit Collections/Help Out"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Submit/Help Out"
 url = "/about/how-to-help/"
+weight = 3
 
 [params]
 author = "Rainwater Tornado"
