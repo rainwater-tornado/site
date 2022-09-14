@@ -5,7 +5,7 @@ layout = "single"
 
 Rainwater Tornado preserves archives and collections of My Little Pony fan music. However, unlike other projects, Rainwater Tornado's goal isn't to create one giant super-archive; rather, it's to preserve existing collections as they are.
 
-The main job of this project is to seed collections of music through BitTorrent. People don't always have their computers running 24 / 7 to seed their torrents, so Rainwater Tornado acts as a backup.
+The main job of this project is to seed collections of music through BitTorrent. People don't always have their computers running 24/7 to seed their torrents, so Rainwater Tornado acts as a backup.
 
 ## A Little Background on BitTorrent
 
