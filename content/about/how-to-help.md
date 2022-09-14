@@ -22,7 +22,7 @@ The [Help Wanted]({{< relref "/tags/help-wanted" >}}) tag is for any collections
 
 ## Donations
 
-Running this isn't cheap, and the cost grows when more collections are added. If you can, please consider [buying some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox) to help offset the costs. (If you include Rainwater Tornado in your note I will reserve the proceeds specifically for the costs associated with this project.)
+Running this isn't cheap, and the cost grows when more collections are added. If you can, please consider [buying some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox) to help offset the costs.
 
 ## Technical Assistance
 
