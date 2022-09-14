@@ -33,5 +33,5 @@ This information is different from the collections of music themselves, which ha
 
 ## Technical Information
 
-* The server infrastructure is described [on GitHub](https://github.com/rainwater-tornado/technical).
-* The website source code is also [on GitHub](https://github.com/rainwater-tornado/site).
+* The [server infrastructure](https://github.com/rainwater-tornado/technical) is described on GitHub.
+* The [website source code](https://github.com/rainwater-tornado/site) is also on GitHub.
