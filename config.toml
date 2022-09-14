@@ -21,8 +21,9 @@ weight = 3
 
 [params]
 author = "Rainwater Tornado"
-description = "Preserving archives and collections of pony music"
 avatar = "logo.png"
+description = "Preserving archives and collections of pony music"
+favicon = "/logo.png"
 
 [params.style]
 darkestColor = "#444444" #Sidebar
