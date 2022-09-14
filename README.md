@@ -1,6 +1,6 @@
 # Rainwater Tornado Website
 
-[Rainwater Tornado](https://rainwatertornado.cloud/) is a project dedicated to preserving collections of music in the brony/My Little Pony fandom.
+[Rainwater Tornado](https://www.rainwatertornado.cloud/) is a project dedicated to preserving collections of music in the brony/My Little Pony fandom.
 
 This repository contains the source for the website. The site is rendered using [Hugo](https://gohugo.io/) and the [m10c theme](https://github.com/vaga/hugo-theme-m10c).
 
