@@ -15,7 +15,7 @@ To download a file from BitTorrent, you need a program called a BitTorrent clien
 
 ## Who's Running This
 
-This site is operated by [Jack "Fox" Grayson](http://jackgraysonfox.tk/), a musician and music lover in the brony fandom.
+This site is operated by [Jack "Fox" Grayson](https://www.jackgraysonfox.xyz/), a musician and music lover in the brony fandom.
 
 ## How to Help
 
