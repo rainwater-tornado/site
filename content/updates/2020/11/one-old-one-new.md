@@ -1,6 +1,5 @@
 +++
 title = "One Old and One New"
-slug = "one-old-one-new"
 date = "2020-11-16T06:54:52Z"
 +++
 

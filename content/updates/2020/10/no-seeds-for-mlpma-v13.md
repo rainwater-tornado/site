@@ -1,6 +1,5 @@
 +++
 title = "No Seeds for MLP Music Archive v13"
-slug = "no-seeds-for-mlpma-v13"
 date = "2020-10-25T07:09:13Z"
 +++
 

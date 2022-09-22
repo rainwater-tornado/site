@@ -1,6 +1,5 @@
 +++
 title = "Community Archives and More"
-slug = "community-archives-and-more"
 date = "2020-06-07T07:37:57Z"
 +++
 

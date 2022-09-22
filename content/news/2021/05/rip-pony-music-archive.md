@@ -1,6 +1,5 @@
 +++
 title = "RIP Pony Music Archive"
-slug = "rip-pony-music-archive"
 date = "2021-05-20T09:34:46Z"
 lastmod = "2021-06-02T19:45:49Z"
 +++

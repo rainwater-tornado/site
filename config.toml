@@ -32,9 +32,5 @@ lightColor = "#ffffff" #Primary text
 lightestColor = "#ffffff" #Titles
 primaryColor = "#00ffff" #Secondary text
 
-[permalinks]
-news = "/:section/:year/:month/:slug"
-updates = "/:section/:year/:month/:slug"
-
 [taxonomies]
 tag = "tags"
