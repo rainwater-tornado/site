@@ -21,6 +21,8 @@ There are two torrents available, one with the files as is and one with the arch
 
 ## Season 3
 
+{{< original-torrent >}}
+
 Season 3 is available on Mega ([direct links on Tumblr](https://mlpost.tumblr.com/post/82467201920/season-3-soundtrack-available)):
 
 * [MP3]({{< resurl "MLP-Unofficial-Soundtrack-S3-MP3-V2.zip.torrent" >}}) ([magnet]({{< magnet "7184fd339edf15782819f4d960ccf9fe21597fe8" >}}))
