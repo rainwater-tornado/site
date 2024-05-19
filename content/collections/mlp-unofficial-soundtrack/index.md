@@ -2,6 +2,7 @@
 title = "MLP Unofficial Soundtrack"
 tags = ["community", "help-wanted"]
 date = "2023-04-26T23:56:44Z"
+lastmod = "2024-05-19T07:24:54Z"
 +++
 
 The [MLP Unofficial Soundtrack](https://mlpost.tumblr.com/), a soundtrack for My Little Pony: Friendship is Magic by CaptainComedy.
@@ -19,7 +20,7 @@ There are two torrents available, one with the files as is and one with the arch
 * [My Little Pony OST Repository]({{< resurl "My Little Pony OST Repository.torrent" >}}) ([magnet]({{< magnet "ba4c02d812737faaa1db1adf37c47938564a7756" >}}))
 * [My Little Pony OST Repository (Unpacked)]({{< resurl "My Little Pony OST Repository (Unpacked).torrent" >}}) ([magnet]({{< magnet "1932b509d2cb7d018e1c44e366e6d076133054fd" >}}))
 
-(The [MLP Music Archive](https://web.archive.org/web/20130330071328/http://mlpmusicarchive.com/the-archive) had different torrents for this soundtrack, but these seem to be "lost.")
+**Help Wanted**: The [MLP Music Archive](https://web.archive.org/web/20130330071328/http://mlpmusicarchive.com/the-archive) had different torrents for this soundtrack, but these seem to be "lost." If you have these torrents, please contact me.
 
 ## Season 3
 
