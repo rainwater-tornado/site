@@ -17,7 +17,7 @@ Music rips by RainShadow for seasons 3 to 9 of Friendship is Magic, plus Equestr
 
 ## Season 4
 
-Seasons 4 to 7 follow a similar format (although season 7 does not include a booklet). From the description of a [YouTube video](https://web.archive.org/web/20140913204441/http://www.youtube.com/watch?v=4f7XCXd4SX8):
+Seasons 4 to 7 follow a similar format. From the description of a [YouTube video](https://web.archive.org/web/20140913204441/http://www.youtube.com/watch?v=4f7XCXd4SX8):
 
 > The soundtrack is split into 2 downloads. This first contains discs 1 & 3, which have all of the songs, backing vocal versions, and instrumentals by Daniel Ingram. The second download contains disc 2, which is the complete season 4 BGM collection by William Anderson.
 >
@@ -66,6 +66,10 @@ Seasons 4 to 7 follow a similar format (although season 7 does not include a boo
 * [Digital Booklet]({{< resurl "My Little Pony Season 6 Annotated Score (Digital Booklet).pdf.torrent" >}}) ([magnet]({{< magnet "d52d74a55ba91ac6d7179582059a1d18978e4bae" >}})) [Note: This is an original torrent.]
 
 ## Season 7
+
+{{< original-torrent >}}
+
+(Season 7 does not include a digital booklet.)
 
 * Songs
 	* [MP3]({{< resurl "My Little Pony Season 7 Complete Songs - MP3.zip.torrent" >}}) ([magnet]({{< magnet "ff6f698af7663575797fe105a0f8f7fec33d7d92" >}}))
