@@ -7,7 +7,7 @@ lastmod = "2024-05-21T08:04:43Z"
 
 Music rips by RainShadow for seasons 3 to 9 of Friendship is Magic, plus Equestria Girls and other media. These rips are available on [MediaFire](https://www.mediafire.com/folder/rh219xdgj66bu/My_Little_Pony%3A_Music_%26_BGM_Rips), linked from RainShadow's [YouTube channel](https://www.youtube.com/channel/UCwz7n4DAn79fEG4DguZWC5A).
 
-**Note**: I am currently in the process of adding additional torrents. Only seasons 3 to 7 of Friendship is Magic are currently available.
+**Note**: I am currently in the process of adding additional torrents. Only the music for Friendship is Magic is currently available.
 
 ## Season 3
 
