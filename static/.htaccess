@@ -1,6 +1,9 @@
 Options -Indexes
 ErrorDocument 404 /404.html
 ErrorDocument 403 /404.html
+RewriteEngine on
+RewriteCond %{ENV:REDIRECT_STATUS} =""
+RewriteRule ^404.html - [L,R=404]
 
 Header always set Content-Security-Policy "default-src 'self'"
 Header always set Referrer-Policy "strict-origin-when-cross-origin"
