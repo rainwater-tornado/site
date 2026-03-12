@@ -4,7 +4,7 @@ title = "How to Help"
 
 ## New Collections
 
-New collections are always welcome. These include:
+New collections are the best way to help. These include:
 
 * Other archives
 * Community albums
