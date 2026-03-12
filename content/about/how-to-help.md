@@ -22,7 +22,7 @@ The [Help Wanted]({{< relref "/tags/help-wanted" >}}) tag is for any collections
 
 ## Donations
 
-Running this isn't cheap, and the cost grows when more collections are added. If you can, please consider [buying some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox) to help offset the costs.
+The costs of running this archive are manageable, but if you'd like to support this project financially you can [buy some "coffee" on Ko-fi](https://ko-fi.com/jackgraysonfox).
 
 ## Technical Assistance
 
